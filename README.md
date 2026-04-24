@@ -1,0 +1,1 @@
+# hyperliquid-funding-monitor-tool
